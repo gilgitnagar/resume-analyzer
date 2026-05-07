@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+pandas
+sqlalchemy
+passlib
+bcrypt
+pdfplumber
+PyPDF2
+sentencepiece
+safetensors
+scikit-learn
